@@ -1,10 +1,10 @@
 {
-  "name": "@straw-hat/CHANGE_ME_PACKAGE_NAME",
-  "version": "0.0.1",
-  "description": "CHANGE_ME_DESCRIPTION",
+  "name": "@straw-hat/fancy-map",
+  "version": "1.0.0",
+  "description": "A Map object with extra methods.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/straw-hat-team/CHANGE_ME_REPO_NAME.git"
+    "url": "https://github.com/straw-hat-team/fancy-map.git"
   },
   "license": "MIT",
   "keywords": [
