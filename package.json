@@ -8,6 +8,8 @@
   },
   "license": "MIT",
   "keywords": [
+    "map",
+    "cache",
     "straw-hat-team"
   ],
   "publishConfig": {
