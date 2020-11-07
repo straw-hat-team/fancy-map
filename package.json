@@ -1,6 +1,6 @@
 {
   "name": "@straw-hat/fancy-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Map object with extra methods.",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
     "test": "jest",
     "prepublishOnly": "yarn build"
   },
-  "type": "commonjs",
+  "type": "module",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
