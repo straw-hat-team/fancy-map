@@ -3,7 +3,7 @@
 ## Usage
 
 ```ts
-import { fs } from 'fs';
+import * as fs from 'fs';
 import { FancyMap } from '@straw-hat/fancy-map';
 
 // It has all the functionalities of a Map
